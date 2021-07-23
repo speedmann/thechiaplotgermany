@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://speedmann.github.io/"
+languageCode = "de-de"
 title = "The chia plot germany"
 theme = "ananke"
