@@ -1,0 +1,6 @@
+name = "speedmann"
+avatar = "images/speedmann.jpg" # Avatar image. Default to "images/profile.webp".
+bio = "Cloud Engineer, Enthusiast und neugierig"
+company = "Null"
+location = "Deutschland"
+# about = "https://06.yt/ueber/" # The external about page. The internal about page will be used if not set.

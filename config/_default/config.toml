@@ -1,0 +1,35 @@
+baseURL = "https://06.yt"
+title = "Inoffizielles News Magazin über Chia"
+theme = "hugo-theme-bootstrap"
+copyright = "Übersetzung © 2021-{year} Speedmann. Original Texte © 2021-{year} Blacktron/Chris Dupres"
+
+# Multilingual mode
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = false
+
+# Pagination
+paginate = 5
+# paginatePath = "page"
+
+# Disqus
+# disqusShortname = "yourdiscussshortname"
+
+# Google analytics
+# googleAnalytics = "UA-123-45"
+
+enableRobotsTXT = true
+
+enableEmoji = true
+
+# hasCJKLanguage = true # Turn on it if your content contains Chinese/Japanese/Korean Languages.
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
