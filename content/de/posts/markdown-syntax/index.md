@@ -5,16 +5,27 @@ date = "2021-07-24"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 featured = false
 draft = true
-categories = [ ]
+categories = [ "Post" ]
 tags = [ "Markdown", "CSS", "HTML" ]
 series = [ "User Manual" ]
 aliases = [ "migrate-from-jekyl" ]
-images = [ "images/markdown.png" ]
+images = [ "/posts/markdown-syntax-guide/rpviewer.png"]
 slug = "markdown-syntax-guide"
 keywords = [ ]
 +++
 
 asd
+
+{{ with .Resources.ByType "image" }}
+{{ range . }}
+{{ .RelPermalink }}
+{{ end }}
+{{ end }}
+
+
+![Alt text](rpviewer.png "a title")
+
+
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
 
