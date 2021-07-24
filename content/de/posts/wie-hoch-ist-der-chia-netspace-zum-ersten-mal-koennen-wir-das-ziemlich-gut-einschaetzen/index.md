@@ -30,3 +30,6 @@ Eine weitere Sache die wir in den letzten Tagen beobachten können ist die Stabi
 Aber warum sollten wir als Farmer uns dafür überhaupt interessieren? Mit der jetzt gefundenen Stabilität ist es uns als Farmern endlich möglich einigermaßen abzuschätzen, wie profitable unsere Farm auf längere Zeit sein wird. Wir können ab jetzt vermutlich eine längere Zeit mit dem aktuellen Netspace von 32EiB als basis rechnen und haben weniger ungewissheit. Das wir an diesem Punkt wieder in ein exponentielles Wachstum verfallen und eine Abschätzung wieder unmöglich wird halte ich derzeit für weniger wahrscheinlich.
 
 Der Grund für all dies ist mit ziemlicher Sicherheit der derzeitige Chia Preis. Sobald der Preis wieder anzieht, oder Chia in einer größeren Menge an Exchanges wie Binance u.ä. gehandelt werden können werden wir auch wieder neue Bewegung im Netspace sehen.
+
+
+Im englischen original von Chris Dupres via [thechiaplot](https://thechiaplot.net/2021/07/24/what-is-the-real-chia-netspace-we-may-have-an-answer/)
