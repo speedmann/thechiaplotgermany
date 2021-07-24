@@ -8,7 +8,7 @@ draft = false
 categories = [ "Post" ]
 tags = [ "netspace", "preis", "allgemein", "news" ]
 images = [
-  "posts/wie-hoch-ist-der-chia-netspace-zum-ersten-mal-koennen-wir-das-ziemlich-gut-einschaetzen/xchscan-network-space-july24.webp"
+  "posts/wie-hoch-ist-der-chia-netspace/xchscan-network-space-july24.webp"
 ]
 slug = "wie-hoch-ist-der-chia-netspace-"
 keywords = [ "netspace", "preis", "allgemein", "news", "chia" ]
