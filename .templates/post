@@ -1,0 +1,15 @@
++++
+author = "Hugo Authors"
+title = "Markdown Syntax Guide"
+date = "2021-07-24"
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+featured = false
+draft = true
+categories = [ "Post" ]
+tags = [ "Markdown", "CSS", "HTML" ]
+series = [ "User Manual" ]
+aliases = [ "migrate-from-jekyl" ]
+images = [ "images/markdown.png" ]
+slug = "markdown-syntax-guide"
+keywords = [ ]
++++

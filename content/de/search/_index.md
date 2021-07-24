@@ -1,4 +1,4 @@
 +++
-title = "Search"
+title = "Suche"
 layout = "search"
 +++

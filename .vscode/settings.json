@@ -1,0 +1,36 @@
+{
+    "frontMatter.taxonomy.tags": [
+        "Alert",
+        "Bilibili",
+        "CSS",
+        "CodePen",
+        "Emoji",
+        "HTML",
+        "Instagram",
+        "JSFiddle",
+        "JSRun",
+        "Markdown",
+        "Netease Music",
+        "News",
+        "Privacy",
+        "Tencent Video",
+        "Text",
+        "Twitter",
+        "Vimeo",
+        "YouTube",
+        "Youku",
+        "iQIYI",
+        "哔哩哔哩",
+        "嗶哩嗶哩",
+        "愛奇藝",
+        "爱奇艺",
+        "網易雲音樂",
+        "网易云音乐",
+        "腾讯视频",
+        "騰訊視訊"
+    ],
+    "frontMatter.taxonomy.categories": [
+        "Post",
+        "Shortcode"
+    ]
+}

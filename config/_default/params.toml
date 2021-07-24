@@ -16,7 +16,7 @@ palettes = [] # Disable palette switcher.
 
 # color = "dark" # light, dark or dynamic. Default to dynamic.
 
-# fullWidth = true # Full width.
+fullWidth = true # Full width.
 # fixedHeader = false # Turn on/off fixed header.
 
 # dateFormat = "Jan 2, 2006"
@@ -25,10 +25,10 @@ palettes = [] # Disable palette switcher.
 googleAdsense = ""
 
 # math = true # Enable math globally.
-# toc = false # Disable TOC globally.
+# toc = true # Disable TOC globally.
 # breadcrumb = false # Disable breadcrumb
 
-# poweredBy = false # Whether to show powered by.
+poweredBy = false # Whether to show powered by.
 
 # featuredPostCount = 10 # The number of featured posts shown in sidebar. Turn off by setting it to false.
 # recentPostCount = 10 # The number of recent posts shown in sidebar. Turn off by setting it to false.
@@ -69,8 +69,8 @@ customJS = []
 [utterances]
   repo = "speedmann/thechiaplotgermany" # Replace with your repository.
   #issueTerm = "pathname" # pathname, url, title, og:title
-  #label = "comment"
-  theme = "github-dark" # github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
+  label = "comment"
+  theme = "github-light" # github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
 
 [search]
   paginate = 5 # Pagination. Default to 10.
@@ -80,7 +80,7 @@ customJS = []
     # ignoreLocation = true
     # location = 0
     # isCaseSensitive = false
-    # minMatchCharLength = 1
+    minMatchCharLength = 2
     threshold = 0.1
     # distance = 100
     # useExtendedSearch = true
