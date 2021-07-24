@@ -1,15 +1,17 @@
 +++
 author = "Hugo Authors"
-title = "Wie hoch ist der Chia Netspace? Zum ersten mal können wir das ziemlich gut einschätzen"
+title = "Wie hoch ist der Chia Netspace?"
 date = "2021-07-24"
 description = "Seit langer Zeit hat sich der netspace endlich stabilisiert, was bedeutet das?"
 featured = false
 draft = false
 categories = [ "Post" ]
-tags = [ "netspace", "preis", "allgemein" , "news" ]
-images = [ "posts/wie-hoch-ist-der-chia-netspace-zum-ersten-mal-koennen-wir-das-ziemlich-gut-einschaetzen/xchscan-network-space-july24.webp" ]
-slug = "wie-hoch-ist-der-chia-netspace-zum-ersten-mal-koennen-wir-das-ziemlich-gut-einschaetzen"
-keywords = [ ]
+tags = [ "netspace", "preis", "allgemein", "news" ]
+images = [
+  "posts/wie-hoch-ist-der-chia-netspace-zum-ersten-mal-koennen-wir-das-ziemlich-gut-einschaetzen/xchscan-network-space-july24.webp"
+]
+slug = "wie-hoch-ist-der-chia-netspace-"
+keywords = [ "netspace", "preis", "allgemein", "news", "chia" ]
 +++
 
 Die letzten Monate waren eine wilde Reise, wir haben exponentielles Wachstum des Chia netspaces gesehen, gefolgt von einigen Wochen stetigem aber geschrumpften Wachstum. Und für eine lange Zeit war es quasi unmöglich eine verlässliche Einschätzung über das Wachstum abzugeben
